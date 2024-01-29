@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\ayatd\source\repos\festile cipher\festile cipher\Source.cpp(40,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ayatd\source\repos\festile cipher\festile cipher\Source.cpp(50,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\ayatd\source\repos\festile cipher\festile cipher\Source.cpp(46): warning C4715: 'feistel': not all control paths return a value
+  festile cipher.vcxproj -> C:\Users\ayatd\source\repos\festile cipher\Debug\festile cipher.exe

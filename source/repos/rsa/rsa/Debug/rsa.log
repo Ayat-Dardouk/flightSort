@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\ayatd\source\repos\rsa\rsa\Source.cpp(28,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ayatd\source\repos\rsa\rsa\Source.cpp(39,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ayatd\source\repos\rsa\rsa\Source.cpp(59,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  rsa.vcxproj -> C:\Users\ayatd\source\repos\rsa\Debug\rsa.exe
