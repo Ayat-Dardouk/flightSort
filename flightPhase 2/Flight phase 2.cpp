@@ -4,8 +4,9 @@
 using namespace std;
 class seat {
 	string seatNumber;
-	
+	dxsadsa
 	string passengerName;
+	amjad;
 public:
 	void setpassengerName( string name) {
 		passengerName = name;
