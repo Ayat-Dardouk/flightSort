@@ -6,6 +6,7 @@ class seat {
 	string seatNumber;
 	int setValue;
 	string passengerName;
+	int amjad;
 public:
 	void setpassengerName( string name) {
 		passengerName = name;
