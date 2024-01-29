@@ -4,7 +4,7 @@
 using namespace std;
 class seat {
 	string seatNumber;
-	
+	int setValue;
 	string passengerName;
 public:
 	void setpassengerName( string name) {
