@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\ayatd\source\repos\flight phase 2\flight phase 2\Source.cpp(212,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\ayatd\source\repos\flight phase 2\flight phase 2\Source.cpp(185): warning C4715: 'flight::deleteReserved': not all control paths return a value
+C:\Users\ayatd\source\repos\flight phase 2\flight phase 2\Source.cpp(166): warning C4715: 'flight::reserveSeat': not all control paths return a value
+  flight phase 2.vcxproj -> C:\Users\ayatd\source\repos\flight phase 2\Debug\flight phase 2.exe
