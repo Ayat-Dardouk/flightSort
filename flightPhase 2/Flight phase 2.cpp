@@ -249,6 +249,6 @@ void main() {
 
 		}
 
-		ayat
+		
 	}
 }
