@@ -248,5 +248,7 @@ void main() {
 		}
 
 		}
+
+		ayat
 	}
 }
